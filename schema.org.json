@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Algoshift",
+  "description": "Labor scheduling where algorithms dynamically adjust worker hours based on real-time demand predictions, creating unpredictability and externalizing scheduling costs onto workers.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "J81"
+}

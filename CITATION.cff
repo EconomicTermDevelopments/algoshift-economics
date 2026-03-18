@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Introducing Algoshift: A Computational Framework for Labor Economics"
+authors:
+  - name: "Economic Research Collective"
+version: "1.0.0"
+date-released: "2026-02-17"
+license: MIT
+repository-code: "https://github.com/EconomicTermDevelopments/algoshift-economics"
+keywords:
+  - economics
+  - algoshift
+  - labor-economics
+  - computational-framework
+  - emerging-terminology
+abstract: "Algoshift is defined here as labor scheduling where algorithms dynamically adjust worker hours based on real-time demand predictions, creating unpredictability and externalizing scheduling costs onto workers. This paper develops Algoshift as a computational framework for labor economics by linking the concept to algorithm-driven schedule volatility in labor allocation, formalizing high algorithmic control amplifying shift instability and income uncertainty, and operationalizing Algoshift with a transparent index built from channels such as demand uncertainty, algorithmic control, shift variability, and worker autonomy, while also showing how Algoshift can support comparative statics, empirical measurement, and policy simulation in reproducible economic research."

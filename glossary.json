@@ -1,0 +1,25 @@
+{
+  "term": "Algoshift",
+  "definition": "Labor scheduling where algorithms dynamically adjust worker hours based on real-time demand predictions, creating unpredictability and externalizing scheduling costs onto workers.",
+  "etymology": "Compound blending \"algorithmic\" with \"shift\" (work period). The term captures both the technological mechanism (algorithm-driven) and the labor market outcome (shift schedule volatility).",
+  "field": "Labor Economics",
+  "subfields": [
+    "Labor Economics",
+    "Platform/Gig Economy",
+    "Algorithmic Management"
+  ],
+  "jel_codes": [
+    "J81",
+    "J88"
+  ],
+  "synonyms": [
+    "algorithmic schedule instability"
+  ],
+  "related_concepts": [
+    "Schedule volatility",
+    "Algorithmic management",
+    "Gig-work instability"
+  ],
+  "first_usage": "2026",
+  "status": "emerging"
+}
