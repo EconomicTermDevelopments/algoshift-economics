@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://economictermdevelopments.github.io/algoshift/sitemap.xml
+Sitemap: https://economictermdevelopments.github.io/algoshift-economics/sitemap.xml
